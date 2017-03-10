@@ -127,6 +127,10 @@ h1 {
 
 
 /* Insert CSS for boosters below this line*/
-
+#boosters {
+  width:300px;
+  top:340px;
+  left:80px;
+}
 
 
